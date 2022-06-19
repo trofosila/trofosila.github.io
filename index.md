@@ -2,4 +2,4 @@
 title: Homepage
 ---
 
-Hello world!
+[Data sheet](/assets/fujitsu-s920-datasheet.pdf)

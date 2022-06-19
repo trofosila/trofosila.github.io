@@ -15,4 +15,4 @@ Expansion:
 
 ### History
 - 19 June 2022 - bought [Fujitsu S920](https://www.ebay.com/itm/115139758982) - 49 euro (24 + 25 shipping)
-- 19 June 2022 - order [4Pin floppy power female to 15Pin SATA power female cable](https://www.aliexpress.com/item/32961740593.html) - 2.3 euro
+- 19 June 2022 - order [4 pin floppy to 15 pin SATA power cable](https://www.aliexpress.com/item/32961740593.html) - 2.3 euro

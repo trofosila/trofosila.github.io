@@ -1,5 +1,5 @@
 ---
-title: My lab
+title: Homepage
 ---
 
 Hello world!

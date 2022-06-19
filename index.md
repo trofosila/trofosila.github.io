@@ -8,6 +8,8 @@ Mainboard: [D3313-A](/assets/Manual_D3313.pdf)
 SOC: [AMD G-Series GX-415GA](https://www.amd.com/en/products/embedded-g-series-2nd-gen)  
 Memory: 1 * 2 GB (DDR3 SODIMM, 1333, 1600, 1866 MHz) - 2 slots available  
 Storage: 2 GB mSATA flash drive (SLC technology)  
+NIC: Realtek 8169 (RTL8168g/8111g) ???  
+Audio: Realtek ALC671  
 Expansion:
 - 1 * PCIe x4 slot
 - 1 * SATA 3.0 (6 Gbit/s, 600 MB/s)

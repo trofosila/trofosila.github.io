@@ -3,9 +3,9 @@ title: Homepage
 ---
 
 ## Fujitsu Futro S920 Thin Client
-[Data sheet](/assets/fujitsu-s920-datasheet.pdf)  
+[Data sheet](/assets/fujitsu-s920-datasheet.pdf), [Manual](/assets/fujitsu-s920-manual.pdf)  
 Mainboard: [D3313-A](/assets/Manual_D3313.pdf)  
-SOC: [AMD G-Series GX-415GA](https://www.amd.com/en/products/embedded-g-series-2nd-gen) - 1.5 GHz, 4 cores, 4 threads, 15 W TDP  
+SOC: [AMD G-Series GX-415GA](https://www.amd.com/en/products/embedded-g-series-2nd-gen) - 1.5 GHz, 4 cores, 4 threads, 15 W TDP, integated Radeon HD 8330E  
 Memory: 1 * 2 GB (DDR3 SODIMM, 1333, 1600, 1866 MHz) - 2 slots available  
 Storage: 2 GB mSATA flash drive (SLC technology)  
 NIC: Realtek 8169 (RTL8168g/8111g) ???  
